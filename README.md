@@ -1,16 +1,20 @@
-## Hi there 👋
+# 你好的
+你好这里是我wusheng233在github的个人主页。
+## 我写：
+PHP
 
-<!--
-**wusheng233github/wusheng233github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java
 
-Here are some ideas to get you started:
+HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+CSS
+
+Python （一点）
+
+JavaScript（一点）
+
+Vala（一点）
+
+C#（一点）
+
+C（一点）
